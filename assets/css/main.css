@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 10px;
+}
+
+header {
+  background: linear-gradient(to right, hsla(318deg, 100%, 33%, 0.3), hsla(96deg, 82%, 28%, 0.3)), url("../images/header.jpg");
+  background-size: cover;
+  background-position: bottom center;
+  height: 100vh;
+  display: flex;
+  align-items: flex-end;
+  padding: 5rem;
+}
+header h1 {
+  font-size: 5rem;
+  font-family: "Bitter", serif;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+/*# sourceMappingURL=main.css.map */
